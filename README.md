@@ -1,16 +1,17 @@
-## Hi there 👋
+# Dylan Durrans Padilla
 
-<!--
-**dylandurrans/dylandurrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.S. Quantitative Economics @ UCLA | Finance · Econometrics · Investment Research**
 
-Here are some ideas to get you started:
+I apply quantitative methods to economic research, financial analysis and investment decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Research & Projects
+
+### Two Chinas: The Persistence of the East–West Income Divide
+
+[![China Dissertation Cover](Two_Chinas_GitHub_Cover_under_1MB.jpg)](https://github.com/dylandurrans/china-regional-inequality)
+
+**OLS Regressions · Panel Data · Robustness Checks**
+
+Econometric research examining income inequality across 22 Chinese provinces (2005–2023).
+
+[View full dissertation](https://github.com/dylandurrans/china-regional-inequality)
