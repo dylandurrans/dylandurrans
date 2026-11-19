@@ -23,3 +23,13 @@ Econometric research examining income inequality across 22 Chinese provinces (20
 Collaborative econometric research examining parking occupancy across 4,016 metered spaces in Los Angeles using Python, OLS regressions and cross-validation.
 
 [View Spotless project](https://github.com/finnrcase/Spotless)
+
+### Manchester United plc — Equity Valuation
+
+[![Manchester United Valuation Cover](Manchester%20United%20Valuation%20Report.png)](https://github.com/dylandurrans/manchester-united-valuation)
+
+**DCF Valuation · Comparable Companies · Investment Research**
+
+Independent equity research evaluating Manchester United plc through three-scenario DCF modelling, financial statement analysis and comparable-company valuation. Investment recommendation: **HOLD**.
+
+[View full investment analysis](https://github.com/dylandurrans/manchester-united-valuation)
